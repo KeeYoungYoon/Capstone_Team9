@@ -12,10 +12,10 @@ Traffic Light Alarm
   
 3. 시스템 구성도
     시스템 전체적인 구상도는 다음과 같습니다.
-    ![system](./Image/system.jpg)
+    ![system](./Image/System.jpg)
     
     구상도를 통해서 시스템을 구현할 경우 예상 되는 흐름은 다음과 같습니다.
-    ![system_flow](./Image/system_Flow.jpg)
+    ![system_flow](./Image/System_Flow.jpg)
     
   
 4. 데이타 흐름도
