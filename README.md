@@ -16,14 +16,16 @@ Traffic Light Alarm
 
     ![system](./Image/System.jpg)
     
-    
-    구상도를 통해서 시스템을 구현할 경우 예상 되는 흐름은 다음과 같습니다.
-    
-    ![system_flow](./Image/System_flow.jpg)
+
     
   
 4. 데이타 흐름도
 
+   
+    ![system_flow](./Image/System_flow.jpg)
+    
+    
+    
     GPS 모듈인 NEO 6M 으로부터 km/h 단위로 된 속도값과 시간값을 데이터로 받고 카메라 모듈을 통해서는 
     운행중 촬영되는 영상을 데이터로 받습니다. 영상 데이터의 경우에는 opencv를 이용해서신호등 색을 판별 한 이후
     RED, YELLOW, GREEN 중에서 세가지 색 중에서 어느 색에 해당하는 지를 데이터로 저장할것입니다.
