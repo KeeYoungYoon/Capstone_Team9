@@ -15,7 +15,7 @@ Traffic Light Alarm
     ![system](./Image/System.jpg)
     
     구상도를 통해서 시스템을 구현할 경우 예상 되는 흐름은 다음과 같습니다.
-    ![system_flow](./Image/System_Flow.jpg)
+    ![system_flow](./Image/System_flow.jpg)
     
   
 4. 데이타 흐름도
