@@ -22,3 +22,12 @@ Traffic Light Alarm
     
   
 4. 데이타 흐름도
+
+    GPS 모듈인 NEO 6M 으로부터 km/h 단위로 된 속도값과 시간값을 데이터로 받습니다.
+    
+    카메라 모듈을 통해서는 운행중 촬영되는 영상을 데이터로 받습니다. 영상 데이터의 경우에는 opencv를 이용해서
+    신호등 색을 판별 한 이후 RED, YELLOW, GREEN 중에서 세가지 색 중에서 어느 색에 해당하는 지를 데이터로 
+    저장할것입니다.
+    
+    결과적으로 mySQL에 데이터로 저장할 값은 속도/신호등색(RED,YELLOW,GREEN)/시간(Hour:Minute:Second)입니다.
+    
