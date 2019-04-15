@@ -1,4 +1,4 @@
-# Capstone_Team9
+# Capstone_Team9 (윤기영/조영운/)
 Traffic Light Alarm
 
 1. 직관적인 타이틀
