@@ -1,5 +1,6 @@
-# Capstone_Team9 (윤기영/조영운/)
+# Capstone_Team9 
 Traffic Light Alarm
+(조원: 윤기영, 조영운, 이주영)
 
 1. 직관적인 타이틀
 
