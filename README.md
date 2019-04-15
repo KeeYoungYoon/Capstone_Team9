@@ -27,7 +27,7 @@ Traffic Light Alarm
 4. 데이타 흐름도
 
    
-    ![system_flow](./Image/System_flow.jpg)
+    ![system_flow](./Image/System_flow2.jpg)
     
     
     
