@@ -16,7 +16,7 @@ Traffic Light Alarm
     시스템 전체적인 구상도는 다음과 같습니다.
     
 
-    ![system](./Image/System.jpg)
+    ![system](./Image/System2.jpg)
     
 
     
