@@ -39,7 +39,7 @@ Traffic Light Alarm
     table을 작성할 계획입니다.
     
     
-    ![table](./Image/table.png)
+    ![table](./Image/table.PNG)
     
     
     속도의 경우에는 최대 3자리를 초과할 수 없고 정지와 이동을 파악하는것이 주목적이기 때문에 소수점 1자리 까지만
