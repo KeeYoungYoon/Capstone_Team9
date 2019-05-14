@@ -37,7 +37,7 @@ Traffic Light Alarm
     RED, YELLOW, GREEN 중에서 세가지 색 중에서 어느 색에 해당하는 지를 데이터로 저장할것입니다.
     
     결과적으로 mySQL에 저장할 값은 속도/신호등색(RED,YELLOW,GREEN)/시간(Hour:Minute:Second)입니다.
-    이를 저장하기 위해 decimal(4,1) 타입의 speed 변수/ char(1) 타입의 light_type 변수/ TIMESTAMP  형식으로
+    이를 저장하기 위해 decimal(4,1) 타입의 speed 변수/decimal(4,1) 타입의 Acceleration 변수/char(1) 타입의 light_type 변수/ TIMESTAMP  형식으로
     table을 작성할 계획입니다.
     
     
