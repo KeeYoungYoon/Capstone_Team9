@@ -44,7 +44,7 @@ def traffic():
 	cv2.imshow('frame', frame)
 	cv2.imshow('mask', mask)
 	cv2.imshow('res', res)
-	'''GPIO.output(7, False)
+	GPIO.output(7, False)
 	GPIO.output(11, True)
 	GPIO.output(13, False)
 	GPIO.output(15, True)'''
