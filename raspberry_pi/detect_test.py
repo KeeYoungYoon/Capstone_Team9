@@ -42,7 +42,7 @@ def findNonZero(rgb_image):
     return 'green' # Green
 
 
- in_img=cv2.imread('1.PNG', cv2.IMREAD_COLOR)
+ in_img=cv2.imread('1.PNG', cv2.IMREAD_COLOR) #detect 1.PNG photo 
  st_img = cv2.resize(in_img, (48,48))
  print(red_green(st_img))
 
